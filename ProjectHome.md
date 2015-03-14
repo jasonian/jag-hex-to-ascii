@@ -1,0 +1,1 @@
+A test project to evaluate Google Code. Converts hexadecimal numbers to ASCII characters using PHP.
